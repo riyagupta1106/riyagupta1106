@@ -25,7 +25,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,r,sql,git,vscode,powershell,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,r,mysql,git,vscode,figma" />
 </p>
 
 ---
@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyagupta6011&show_icons=true&theme=github_dark&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riyagupta6011&theme=github-dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyagupta1106&show_icons=true&theme=github_dark&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=riyagupta1106&theme=github-dark" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riyagupta6011&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riyagupta1106&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
