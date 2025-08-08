@@ -15,7 +15,7 @@
 ---
 
 ## 💼 About Me
-🎓 I'm currently pursuing **B.Tech in Computer Science (ML & AI)** from Dronacharya College of Engineering (2023–2027).  
+🎓 I'm currently pursuing **B.Tech in Computer Science (AI & ML)** from Dronacharya College of Engineering (2023–2027).  
 🌱 I'm learning and building projects in **Artificial Intelligence**, **Web Development**, and **Data Science**.  
 🚀 My goal is to become a **Machine Learning Engineer** and contribute to real-world, scalable solutions.  
 🧠 Passionate about blending design + data + development.
@@ -55,21 +55,6 @@
 ✅ **Digital Marketing Fundamentals**  
 ✅ **Generative AI Tools** – Skill Nation  
 ✅ **Data Science vs ML vs AI** – Participation Certificate  
-
----
-
-## 📁 Featured Repositories
-
-### 🔥 AI & ML Projects
-- [AI Dashboard Power BI](https://github.com/riyagupta6011/ai-dashboard)  
-- [ML vs AI vs DS Comparison](https://github.com/riyagupta6011/ml-vs-ai-vs-ds)  
-- [Generative AI Tools Showcase](https://github.com/riyagupta6011/generative-ai-tools)
-
-### 🌐 Web Development Projects
-- [Portfolio Website](https://github.com/riyagupta6011/portfolio)  
-- [Frontend Login + Signup UI](https://github.com/riyagupta6011/frontend-auth-ui)
-
-> 🔍 *More projects coming soon…*
 
 ---
 
